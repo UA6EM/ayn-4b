@@ -17,4 +17,4 @@ Portable QRP CW Transceiver
 Links:
 * Article (in Russian): https://eax.me/ayn-4b-transceiver/
 * Demo: https://www.youtube.com/watch?v=IM0qo4IA7QQ
-* Fork by Kirill, R2AXZ with CMake support https://github.com/r2axz/ayn-4b
+* Fork by Kirill, R2AXZ with CMake support: https://github.com/r2axz/ayn-4b
