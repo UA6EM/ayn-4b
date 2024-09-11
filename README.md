@@ -1,5 +1,6 @@
-# AYN/4B
 
+# AYN/4B
+## Для компиляции под Linux UBUNTU
 Portable QRP CW Transceiver
 
 * Covers 40, 30, 20 and 17 meters
